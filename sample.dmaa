@@ -1,0 +1,5 @@
+# Sample .dmaa program
+
+read clubs.xlsx cols 1-2 rows 1-2
+output memory
+output memory clubs.xlsx
